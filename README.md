@@ -24,3 +24,4 @@
 
 - [DPS310](https://www.infineon.com/cms/en/product/sensor/pressure-sensors/pressure-sensors-for-iot/dps310/)
   - [Datasheet](https://www.infineon.com/dgdl/Infineon-DPS310-DataSheet-v01_02-EN.pdf?fileId=5546d462576f34750157750826c42242)
+- [ICP 20100](https://invensense.tdk.com/products/smartpressure/icp-20100/)
