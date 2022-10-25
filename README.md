@@ -1,5 +1,5 @@
 # sensor_played
-sensor_played
+
 
 ## IMU(GSensor/Gyro)
 
@@ -9,7 +9,7 @@ sensor_played
   - [STMicroelectronics/lsm6dsl-pid](https://github.com/STMicroelectronics/lsm6dsl-pid)
   - [STMicroelectronics/STMems_Standard_C_drivers/Examples](https://github.com/STMicroelectronics/STMems_Standard_C_drivers/tree/master/lsm6dsl_STdC/examples)
   - [Avnet/clickmodules](https://github.com/Avnet/clickmodules/tree/master/LSM6DSL) : third-wrapper
-
+- [LSM6DSOX](https://www.st.com/en/mems-and-sensors/lsm6dsox.html)
 - [LIS2DH](https://www.st.com/en/mems-and-sensors/lis2dh.html)
 - [MPU6050](https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/)
 
